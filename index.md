@@ -10,27 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Personable teachers
 - Quirky Lecture Slides
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Ishaan Buddharaju's First CS193 Homework
-## Header 2
-### Header 3
-
-- Learning to use terminal
-- Learning concepts that make the transition easier
-- Personable teachers
-- Quirky Lecture Slides 
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
