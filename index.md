@@ -14,9 +14,11 @@ Syntax highlighted code block
 # Ishaan Buddharaju's First CS193 Homework
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
+## CS193, My Favorite Things
+- Learning to use terminal
+- Learning concepts that make the transition easier
+- Personable teachers
+- Quirky Lecture Slides 
 
 1. Numbered
 2. List
